@@ -10,3 +10,4 @@ All code is listed session wise.
 )
 1. Create your own github repo to upload leetcode solutions.
 1. Relax and study with an open mind.
+1. Simple g-docs based resume templates [here](https://github.com/code-dudes/resume)
