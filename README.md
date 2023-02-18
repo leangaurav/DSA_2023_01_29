@@ -18,6 +18,11 @@ All code is listed session wise.
 1. https://leetcode.com/problems/single-number/
 1. https://leetcode.com/problems/missing-number/
 
+**Simple array**  
+1. https://leetcode.com/problems/find-the-difference/
+1. https://leetcode.com/problems/single-number-ii/
+1. https://leetcode.com/problems/decode-xored-array/
+1. https://leetcode.com/problems/find-the-original-array-of-prefix-xor/
 
 **Simple array problems**  
 1. Best time to buy and sell stocks
