@@ -34,3 +34,23 @@ All code is listed session wise.
 1. Reverse a part of array (arr, start, end)
    Then solve https://leetcode.com/problems/rotate-array/description/
 1. https://leetcode.com/problems/trapping-rain-water/
+
+**Stack**  
+1. https://leetcode.com/problems/valid-parentheses/
+1. https://leetcode.com/problems/next-greater-element-i/
+1. https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
+1. https://leetcode.com/problems/next-greater-element-ii/
+
+**Recursion**  
+1. https://leetcode.com/problems/reverse-string/
+1. https://leetcode.com/problems/power-of-two/
+1. https://leetcode.com/problems/decode-string/
+1. https://leetcode.com/problems/count-good-numbers/
+
+**Sliding Window**
+1. https://leetcode.com/problems/max-consecutive-ones/
+1. https://leetcode.com/problems/longest-substring-without-repeating-characters/
+1. https://leetcode.com/problems/max-consecutive-ones-ii/  https://www.lintcode.com/problem/883/
+1. https://leetcode.com/problems/max-consecutive-ones-iii/
+1. https://leetcode.com/problems/k-radius-subarray-averages/
+
